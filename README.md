@@ -1,2 +1,2 @@
 # github-test
-GitHubの練習用リポジトリ
+GitHubの練習用リポジトリです！
